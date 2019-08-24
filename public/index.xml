@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Digital Productivity Coach</title>
+    <link>https://digitalproductivity.coach/</link>
+    <description>Recent content on The Digital Productivity Coach</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2019 James Stuber</copyright>
+    <lastBuildDate>Fri, 23 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://digitalproductivity.coach/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://digitalproductivity.coach/about/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://digitalproductivity.coach/about/</guid>
+      <description>The Digital Productivity Coach was built by productivity nerds Tasshin Fogleman and James Stuber.
+Colleagues, clients, and friends were asking both of us for productivity tips. While we&amp;rsquo;re happy to teach, one-on-ones are time consuming and hard to schedule.
+We searched for a single, easy-to-use resource to share with others, but couldn&amp;rsquo;t find one. Instead of giving up, we built our own: The Digital Productivity Coach.
+Tasshin Fogleman Tasshin is the Assistant Director at the Monastic Academy in Lowell, VT.</description>
+    </item>
+    
+    <item>
+      <title>The Digital Productivity Coach</title>
+      <link>https://digitalproductivity.coach/the-digital-productivity-coach/</link>
+      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://digitalproductivity.coach/the-digital-productivity-coach/</guid>
+      <description>&amp;ldquo;I constantly try new apps and tools to get organized and yet I never get anything done!&amp;rdquo; If you want to level-up your productivity, it&amp;rsquo;s easy to feel overwhelmed.
+There are dozens of systems and tools and acronyms and it all sounds so complicated.
+You read blog post after blog post, waiting for some kind of &amp;ldquo;a-ha!&amp;rdquo; moment.
+How do you choose what to work on? Who should you listen to?</description>
+    </item>
+    
+  </channel>
+</rss>
