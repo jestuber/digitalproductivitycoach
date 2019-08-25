@@ -6,7 +6,7 @@ Title: "The Digital Productivity Coach"
 
 ## "I constantly try new apps and tools to get organized and yet I never get anything done!"
 
-If you want to level-up your productivity, it's easy to feel overwhelmed. 
+If you want to level up your productivity, it's easy to feel overwhelmed.
 
 There are dozens of systems and tools and acronyms and it all sounds so complicated.
 
@@ -46,7 +46,7 @@ When you first open the Digital Productivity Coach, here's exactly what you'll d
 * You'll practice that skill
 * When you feel comfortable, ask the Digital Productivity Coach for your next step
 
-Over time you'll build a complete Productivity System. With each small step, you'll see your outcomes improve for the work you care about the most.
+Over time you'll build a complete productivity system. With each small step, you'll see your outcomes improve for the work you care about the most.
 
 ## Get the Digital Producitivity Coach
 
@@ -77,7 +77,7 @@ _An interactive coach for digital productivity, available 24/7 to give you a fea
 ![](/img/prod-pkm.png)
 
 ### Advanced Topics
-A bonus 'Advanced Topics' section if you're itching for more 
+A bonus 'Advanced Topics' section if you're itching for more
 ![](/img/prod-adv.png)
 
 ---
@@ -92,18 +92,17 @@ You don't need this if:
 * You're happy with your productivity systems.
 
 #### Why is this available for free?
-87.5% of early testers said they would happily pay for The Digital Productivity Coach, so why would we offer it at a Pay-What-You-Want price?
 
 1. We want to share what we know as widely as possible. Productivity systems like the ones you can learn from The Coach are *empowering*, and we wish to remove barriers to entry where possible.
 2. We're able to recoup the costs of hosting and development through your generosity, affliate links to products we personally use & vouch for, and new coaching clients.
 
 #### Who are you?
-The Digital Productivity Coach was built by productivity nerds Tasshin Fogleman and James Stuber. More about us [here](/about)
+The Digital Productivity Coach was built by productivity nerds Tasshin Fogleman and James Stuber. More about us [here](/about).
 
 <!-- #### How does this relate to GTD and BASB?
  -->
 #### I still have questions!
-[Send me an email](mailto:james@jamesstuber.com) (james@jamesstuber.com). 
+[Send James an email](mailto:james@jamesstuber.com) (james@jamesstuber.com).
 
 ---
 

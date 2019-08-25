@@ -3,7 +3,7 @@ date = "2019-08-23"
 title = "About"
 +++
 
-The Digital Productivity Coach was built by productivity nerds Tasshin Fogleman and James Stuber. 
+The Digital Productivity Coach was built by productivity nerds Tasshin Fogleman and James Stuber.
 
 Colleagues, clients, and friends were asking both of us for productivity tips. While we're happy to teach, one-on-ones are time consuming and hard to schedule.
 
@@ -14,9 +14,9 @@ We searched for a single, easy-to-use resource to share with others, but couldn'
 <img src="/img/tasshin2.jpg" alt="headshot of Tasshin Fogleman" style="width: 50%;" />
 
 
-Tasshin is the Assistant Director at the Monastic Academy in Lowell, VT. He wants to help monasteries flourish in the modern world.
+Tasshin is the Assistant Director at the [Monastic Academy](https://monasticacademy.com) in Lowell, VT. He wants to help monasteries flourish in the modern world.
 
-Tasshin writes about meditation, monasteries, productivity, strategy, and more at his website, [Tasshin.com](https://tasshin.com/).
+Tasshin writes about meditation, monasteries, productivity, strategy, and more at his website, [tasshin.com](https://tasshin.com/).
 
 
 ## James Stuber
