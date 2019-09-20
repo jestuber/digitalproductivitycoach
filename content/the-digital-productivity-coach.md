@@ -3,6 +3,7 @@ author: "James Stuber"
 date: 2019-08-23
 Title: "The Digital Productivity Coach"
 ---
+*An interactive coach for digital productivity, available 24/7 to give you a feasible next step to improve your productivity skills.*
 
 ## "I constantly try new apps and tools to get organized and yet I never get anything done!"
 
