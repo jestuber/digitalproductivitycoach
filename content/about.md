@@ -3,6 +3,8 @@ date = "2019-08-23"
 title = "About"
 +++
 
+# About
+
 The Digital Productivity Coach was built by productivity nerds Tasshin Fogleman and James Stuber.
 
 Colleagues, clients, and friends were asking both of us for productivity tips. While we're happy to teach, one-on-ones are time consuming and hard to schedule.
