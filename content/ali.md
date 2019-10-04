@@ -11,12 +11,12 @@ Thanks for checking out the Digital Productivity Coach!
 
 ## 🎓 Students
 
-If you're a student who watches Ali Abdaal, [follow this link to try out the Digital Productivity Coach, free of charge](https://digitalproductivity.coach/coach)
+If you're a student who watches Ali Abdaal, [follow this link to try out the Digital Productivity Coach, free of charge](https://digitalproductivity.coach/coach).
 
 
 ## Get the Digital Producitivity Coach
 
-If you have the means, a purchase is greatly appreciated.
+The Digital Productivity Coach is free to use, but offered at a pay-what-you-want price to support the costs of development and operation. If you have the means to support its ongoing availability, we would greatly appreciate you purchasing the Coach at a price that works for you.
 
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="productivitycoach"><a href="https://gumroad.com/l/productivitycoach">Loading...</a></div>
